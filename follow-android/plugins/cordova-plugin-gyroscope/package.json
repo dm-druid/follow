@@ -1,0 +1,61 @@
+{
+  "name": "cordova-plugin-gyroscope",
+  "version": "0.1.4",
+  "description": "Cordova Device Gyroscope Plugin",
+  "cordova": {
+    "id": "cordova-plugin-gyroscope",
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NeoLSN/cordova-plugin-gyroscope.git"
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android",
+    "cordova-ios"
+  ],
+  "author": {
+    "name": "Jason Yang"
+  },
+  "license": "BSD",
+  "bugs": {
+    "url": "https://github.com/NeoLSN/cordova-plugin-gyroscope/issues"
+  },
+  "homepage": "https://github.com/NeoLSN/cordova-plugin-gyroscope#readme",
+  "gitHead": "5844706f055899147e7e959ef30e0e8fc51a9a47",
+  "_id": "cordova-plugin-gyroscope@0.1.4",
+  "scripts": {},
+  "_shasum": "d4e43e7c8e78a8b4d9090460be67b51618168259",
+  "_from": "cordova-plugin-gyroscope@latest",
+  "_npmVersion": "3.7.3",
+  "_nodeVersion": "5.9.0",
+  "_npmUser": {
+    "name": "jasonyang",
+    "email": "jason760924@gmail.com"
+  },
+  "dist": {
+    "shasum": "d4e43e7c8e78a8b4d9090460be67b51618168259",
+    "size": 6850,
+    "noattachment": false,
+    "tarball": "http://registry.npm.taobao.org/cordova-plugin-gyroscope/download/cordova-plugin-gyroscope-0.1.4.tgz"
+  },
+  "maintainers": [
+    {
+      "name": "jasonyang",
+      "email": "jason760924@gmail.com"
+    }
+  ],
+  "_npmOperationalInternal": {
+    "host": "packages-16-east.internal.npmjs.com",
+    "tmp": "tmp/cordova-plugin-gyroscope-0.1.4.tgz_1462029129977_0.7033962004352361"
+  },
+  "directories": {},
+  "publish_time": 1462029132295,
+  "_cnpm_publish_time": 1462029132295,
+  "_hasShrinkwrap": false,
+  "_resolved": "https://registry.npm.taobao.org/cordova-plugin-gyroscope/download/cordova-plugin-gyroscope-0.1.4.tgz"
+}

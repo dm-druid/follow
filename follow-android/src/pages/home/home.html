@@ -1,0 +1,31 @@
+<ion-header>
+  <ion-navbar>
+    <ion-title>Follow</ion-title>
+  </ion-navbar>
+</ion-header>
+
+<ion-content padding>
+<ion-card>
+  <ion-card-header>
+    欢迎使用Follow
+  </ion-card-header>
+  <ion-card-content>
+    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Exercitationem dolor cupiditate perferendis officia ad velit debitis ut quod deserunt veniam fugiat eaque earum, tempore vitae eligendi eveniet consequuntur quas autem.
+  </ion-card-content>
+</ion-card>
+  <!--<button (click)="getDeviceMotion()">Get DeviceMotion</button>
+  <button (click)="getGyroscope()">Get Gyroscope</button>
+  <button (click)="getCompass()">Get Compass</button>
+  <button (click)="sendWord()">Send Word</button>
+  <button (click)="readRSSI()">Get RSSI</button>
+  <button (click)="scan()">Scan</button>
+  <button (click)="connect()">Connect</button>
+  <button (click)="isEnable()">IsEnable</button>
+  <button (click)="isConnected()">IsConnected</button>
+  <button (click)="enable()">Enable</button>-->
+  <button ion-button  block (click)="QRScan()" style="margin-top: 40px">
+    <ion-icon name="cart" item-start style="padding-right: 2px;"></ion-icon>
+      支付</button>
+
+  <p style="color: #E53935; font-size: 40px; text-align: center">￥{{money}}</p>
+</ion-content>

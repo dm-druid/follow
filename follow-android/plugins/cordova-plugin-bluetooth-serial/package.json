@@ -1,0 +1,67 @@
+{
+  "name": "cordova-plugin-bluetooth-serial",
+  "version": "0.4.7",
+  "description": "Bluetooth Serial Communication Plugin",
+  "main": "./www/bluetoothSerial.js",
+  "cordova": {
+    "id": "cordova-plugin-bluetooth-serial",
+    "platforms": [
+      "android",
+      "ios",
+      "wp8"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/don/BluetoothSerial.git"
+  },
+  "keywords": [
+    "cordova",
+    "bluetooth",
+    "serial",
+    "ble",
+    "arduino",
+    "ecosystem:cordova"
+  ],
+  "author": {
+    "name": "Don Coleman",
+    "email": "don.coleman@gmail.com"
+  },
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/don/BluetoothSerial/issues"
+  },
+  "homepage": "https://github.com/don/BluetoothSerial#readme",
+  "gitHead": "6fabc14811a170d1582953f82909c9926170b19b",
+  "_id": "cordova-plugin-bluetooth-serial@0.4.7",
+  "scripts": {},
+  "_shasum": "1e4606ec6d42b7c23f60a74a87c7c4a4ec3828c0",
+  "_from": "cordova-plugin-bluetooth-serial@latest",
+  "_npmVersion": "3.10.10",
+  "_nodeVersion": "6.9.5",
+  "_npmUser": {
+    "name": "don",
+    "email": "don.coleman@gmail.com"
+  },
+  "dist": {
+    "shasum": "1e4606ec6d42b7c23f60a74a87c7c4a4ec3828c0",
+    "size": 30254,
+    "noattachment": false,
+    "tarball": "http://registry.npm.taobao.org/cordova-plugin-bluetooth-serial/download/cordova-plugin-bluetooth-serial-0.4.7.tgz"
+  },
+  "maintainers": [
+    {
+      "name": "don",
+      "email": "don.coleman@gmail.com"
+    }
+  ],
+  "_npmOperationalInternal": {
+    "host": "packages-12-west.internal.npmjs.com",
+    "tmp": "tmp/cordova-plugin-bluetooth-serial-0.4.7.tgz_1489732624709_0.08048886526376009"
+  },
+  "directories": {},
+  "publish_time": 1489732626668,
+  "_cnpm_publish_time": 1489732626668,
+  "_hasShrinkwrap": false,
+  "_resolved": "https://registry.npm.taobao.org/cordova-plugin-bluetooth-serial/download/cordova-plugin-bluetooth-serial-0.4.7.tgz"
+}
